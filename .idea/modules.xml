@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/learning-git-tricks/git.iml" filepath="$PROJECT_DIR$/learning-git-tricks/git.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/trunk-based-branch-test.iml" filepath="$PROJECT_DIR$/.idea/trunk-based-branch-test.iml" />
     </modules>
   </component>
