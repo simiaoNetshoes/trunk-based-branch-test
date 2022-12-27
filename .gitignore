@@ -20,6 +20,8 @@ target/
 *.ipr
 .mvn/**
 .java-version
+.DS_Store
+
 
 ### NetBeans ###
 /nbproject/private/
